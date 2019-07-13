@@ -11,6 +11,7 @@ This research covers decentralized mesh communications that is suitable for use 
   - [Motivation](#Motivation)
   - [Scope](#Scope)
   - [Commercial Products](#Commercial-Products)
+    - [GoTenna](#GoTenna)
   - [Open Source Projects](#Open-Source-Projects)
   - [Technology](#Technology)
   - [Discussion](#Discussion)
@@ -32,8 +33,22 @@ This research focuses on technology with the following requirements:
 - Makes use of mesh networking
 - Can send text as a minimum
 - Does not need mains power
+- Should have a line of sight range of >1km
 
 ## Commercial Products
+There is a number of commercial products available, that have various levels of adoption
+
+### [GoTenna](https://gotenna.com/)
+Of all the products or projects encountered in this research, GoTenna is the most successful, both as a commercial company and a and in terms of adoption level. They offer a consumer version (GoTenna Mesh) and a professional version (GoTenna Pro).
+
+| Spec          | GoTenna Mesh  | GoTenna Pro |
+| ------------- | ------------- | -----       |
+| Frequencies   | 868/900 Mhz   | 142-175 MHz / 445-480 MHz|
+| Output power | 0.5-1W | 0.5-5W |
+| Modulation | GFSK | 4GFSK |
+| Mesh Networking Protocol | Aspen Grove (Proprietary) | Aspen Grove (Proprietary) |
+| Interface | BLE 4.0+ & 5.0 | BLE 4.0+ & 5.0 |
+| Payload | 235 Bytes Max | 235 Bytes Max |
 
 ## Open Source Projects
 
