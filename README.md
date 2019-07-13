@@ -50,6 +50,10 @@ Of all the products or projects encountered in this research, GoTenna is the mos
 | Interface | BLE 4.0+ & 5.0 | BLE 4.0+ & 5.0 |
 | Payload | 235 Bytes Max | 235 Bytes Max |
 
+GoTenna allows secure mesh communications using other GoTenna devices as relays even if the users do no know each other. A [node map](https://imeshyou.gotennamesh.com/) shows locations of voluntarily registered nodes, whic is quite extensive across the US.
+
+*Note to self: I think GoTenna is doing everything right EXCEPT for keeping everything closes source. This is understandable since they are a commercial company dependant on hardware sales for revenue.
+
 ## Open Source Projects
 
 ## Technology
