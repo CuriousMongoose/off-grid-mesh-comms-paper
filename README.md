@@ -57,7 +57,19 @@ GoTenna allows secure mesh communications using other GoTenna devices as relays 
 ## Open Source Projects
 
 ## Technology
+Narrow band GFSK modulation  would be ideal due to the amount of available transceivers. 
+The LORA is nice but takes up excessive frequency spectrum coverage. The ICs for LORA all come from Semtech
 
 ## Discussion
 
 ## Conclusion
+
+# Notes (Unedited)
+The network should be 
+- hardware agnostic
+- defined protocol 
+- end to end encrypted
+- decentralized (not dependant on any central servers
+- group chats
+- traffic should be able to route via the internet where applicable
+- basically a open source and system
